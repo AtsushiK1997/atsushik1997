@@ -1,3 +1,4 @@
+![hello](./image/cat.jpg)
 <h1 align="center">Hi 👋, I'm Atsushi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
